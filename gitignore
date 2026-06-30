@@ -1,0 +1,13 @@
+# Raw data — large NetCDF files are not tracked
+*.nc
+
+# MATLAB artifacts
+*.asv
+*.mat
+*.slxc
+slprj/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
